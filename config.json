@@ -1,0 +1,5 @@
+{
+  "osu_folder_path": "osu!/",
+  "files_to_track": ["scores.db", "collections.db", "Replays", "Data"],
+  "copy_to": "osu!clone"
+}

@@ -1,5 +1,7 @@
 {
   "osu_folder_path": "osu!/",
   "files_to_track": ["scores.db", "collections.db", "Replays", "Data"],
-  "copy_to": "osu!clone"
+  "copy_to": "osu!clone",
+  "google_drive_parent_folder_id": "",
+  "google_service_account": {}
 }

@@ -1,3 +1,5 @@
 logs*
 bun.lockb
 node_modules/
+yarn*
+test.ts

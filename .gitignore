@@ -3,3 +3,4 @@ bun.lockb
 node_modules/
 yarn*
 test.ts
+config.json

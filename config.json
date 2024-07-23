@@ -1,8 +1,21 @@
 {
   "osu_folder_path": "osu!/",
-  "files_to_track": ["scores.db", "collections.db", "Replays", "Data"],
+  "files_to_track": ["scores.db", "collections.db", "Replays", "Data/r"],
   "save_in_versions": ["collections.db"],
+  "upload_to_drive": ["scores.db", "collections.db", "Replays", "Data/r"],
   "copy_to": "osu!clone",
   "google_drive_parent_folder_id": "",
-  "google_service_account": {}
+  "google_service_account": {
+    "type": "service_account",
+    "project_id": "",
+    "private_key_id": "",
+    "private_key": "",
+    "client_email": "",
+    "client_id": "",
+    "auth_uri": "",
+    "token_uri": "",
+    "auth_provider_x509_cert_url": "",
+    "client_x509_cert_url": "",
+    "universe_domain": ""
+  }
 }
